@@ -10,3 +10,7 @@ I have been working in the field of Android development for about 1.5 years. I s
 *   ✉️ You can contact me at [max.isaev16@gmail.com](mailto:max.isaev16@gmail.com )
 *   🚀 I'm currently working on [Playlist-Maker](http://github.com/Maksim-Isaev/Playlist-Maker)
 *   🧠  I'm learning Kotlin, Jetpack Navigation
+
+
+markdown
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
