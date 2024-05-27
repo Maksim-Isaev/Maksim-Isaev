@@ -9,4 +9,4 @@ I have been working in the field of Android development for about 1.5 years. I s
 *   🖥️ See my portfolio at [GitHub](http://github.com/Maksim-Isaev)
 *   ✉️ You can contact me at [max.isaev16@gmail.com](mailto:max.isaev16@gmail.com )
 *   🚀 I'm currently working on [Playlist-Maker](http://github.com/Maksim-Isaev/Playlist-Maker)
-*   🧠  I'm learning Kotlin, Jetpack Navigation
+*   🧠  I'm learning Kotlin, Jetpack Compose
